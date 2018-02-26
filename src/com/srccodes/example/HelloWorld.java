@@ -8,7 +8,7 @@ public class HelloWorld {
         System.out.println("Hello World");
         System.out.println("Aggiunta nuova riga per il branch");
         System.out.println("Secondo branch con anche nuova classe");
-	System.out.println("Modifica direttamente da dentro GitKraken");
+        System.out.println("Modifica direttamente da dentro GitKraken");
     }
 
 }
